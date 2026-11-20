@@ -3,23 +3,151 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Leonida Legend — GTA 6 Trophy Guide &amp; Tracker</title>
+<meta name="description" content="The complete GTA 6 trophy guide: all 55 official trophies with a roadmap to the Platinum, a missable-trophy warning, and a checklist tracker that works offline.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="hero">
+  <p class="kicker">Grand Theft Auto VI &middot; PlayStation 5 &middot; Unofficial fan guide</p>
+  <h1>Leonida Legend</h1>
+  <p class="lede">Every one of the 55 official GTA 6 trophies, with a guide in plain words, the sources behind it, and a roadmap to the Platinum. No account, no connection — tick trophies off and your progress stays in this browser.</p>
+  <dl class="stats" id="stats">
+    <div><dt>Trophies</dt><dd>55</dd></div>
+    <div><dt>Platinum time</dt><dd>~200 hrs</dd></div>
+    <div><dt>Difficulty</dt><dd>4 / 10</dd></div>
+    <div><dt>Missable</dt><dd>1</dd></div>
+    <div><dt>Online trophies</dt><dd>0</dd></div>
+    <div><dt>Hidden trophies</dt><dd>28</dd></div>
+  </dl>
+  <div class="progress-wrap" aria-live="polite">
+    <div class="progress-line"><span id="progress-text">0 of 55 earned</span><span id="progress-pct">0%</span></div>
+    <div class="progress-bar"><div id="progress-fill" style="width:0%"></div></div>
+    <p class="progress-sub" id="progress-sub">1 Platinum &middot; 2 Gold &middot; 6 Silver &middot; 46 Bronze</p>
+  </div>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<main>
+  <section class="callout missable" id="missable-callout">
+    <h2>Read this first: the one missable trophy</h2>
+    <p><strong>Positive Mental Attitude</strong> asks you to meditate at all 18 spots across Leonida — and one of them can pass you by. In Chapter 1, after the mission <em>Down to Earth</em>, find Lucia at Jason&rsquo;s house in the morning, talk to her in the kitchen when she mentions meditating, follow her to the balcony and accept. That moment is gone once Chapter 1 ends. There is no mission replay, so keep a manual save at the start of every chapter (15 save slots) and one more before the final mission. Whether the balcony meditation is strictly required for the trophy is still unconfirmed — do it anyway.</p>
+    <p class="callout-src">Sources: KeenGamer platinum roadmap; PlanetGTA6 trophy list.</p>
+  </section>
+
+  <section class="roadmap" id="roadmap">
+    <h2>Roadmap to the Platinum</h2>
+    <ol class="phases">
+      <li>
+        <h3>Phase 1 — Story first <span>60–80 hours</span></h3>
+        <p>Play all five chapters and finish the final mission for the Gold <em>You Gotta Know When to Get Off</em>. Along the way: do Lucia&rsquo;s balcony meditation before leaving Chapter 1, scan unfamiliar vehicles with the WAiNK app, study animals with binoculars, and take the optional missions that introduce fishing, hunting and robberies. Keep manual saves — there is no mission replay and no New Game Plus.</p>
+      </li>
+      <li>
+        <h3>Phase 2 — 100% completion <span>~100 hours</span></h3>
+        <p>Open <em>Progress &gt; Stats &gt; 100% Completion</em> and work the checklist for <em>A Long Road</em>, the hardest trophy. You do not need everything in the game — only the numbers in the table below. Stop each category at its number.</p>
+        <table class="checklist-table">
+          <caption>What 100% completion actually requires</caption>
+          <thead><tr><th>Category</th><th>Needed</th></tr></thead>
+          <tbody>
+            <tr><td>Story chapters</td><td>All finished</td></tr>
+            <tr><td>Optional tasks</td><td>100 completed</td></tr>
+            <tr><td>Gang operations / bank jobs / payday loan jobs</td><td>39 / 22 / 7</td></tr>
+            <tr><td>Smash &rsquo;n&rsquo; grabs / stick-ups / bank vaults</td><td>34 of 35 / 50 of 91 / 8 of 8</td></tr>
+            <tr><td>Fenced: narcotics / jewelry / marked bills / vehicles</td><td>$100k / $100k / $250k / $200k</td></tr>
+            <tr><td>Kenton treasure sets / card sets</td><td>5 of 7 / 15 of 18</td></tr>
+            <tr><td>WAiNK scans / underwater discoveries / flamingos</td><td>100 / 33 of 33 / 100 of 125</td></tr>
+            <tr><td>Magazines, books &amp; comics / meditations</td><td>30 of 34 / 15 of 18</td></tr>
+            <tr><td>Playlists / styles / base-model vehicles</td><td>2 of 2 / 70 of 79 / 200 of 277</td></tr>
+            <tr><td>Standard weapons / animals studied</td><td>50 of 66 / 100 of 255</td></tr>
+            <tr><td>Races won / race gold medals / shooting-range golds</td><td>30 of 40 / 10 of 13 / 42 of 42</td></tr>
+            <tr><td>Video games played / pool opponents / mini golf</td><td>4 / 5 of 7 / 2 of 3 spots</td></tr>
+            <tr><td>Basketball hoops / drone time trials</td><td>90 of 100 / 42 of 42</td></tr>
+            <tr><td>Stunts / challenges / Bret&rsquo;s target decks</td><td>300 of 397 / 70 of 80 / 15 of 15</td></tr>
+          </tbody>
+        </table>
+      </li>
+      <li>
+        <h3>Phase 3 — Cleanup <span>10–20 hours</span></h3>
+        <p>Finish the stranger strands (Andy, Kenton, Billy, Randy, Tyrone and three more for <em>Strangers &amp; Freaks</em>), the remaining meditations, and the miscellaneous trophies. Then check the tracker below — the Platinum, <em>Vice Got a Price!</em>, pops with the last one.</p>
+      </li>
+    </ol>
+    <ul class="warnings">
+      <li><strong>Cheats disable trophies</strong> — and you cannot save while one is active. Play the whole Platinum run clean.</li>
+      <li><strong>No online trophies.</strong> All 55 are earnable solo, in one playthrough, with free roam after the story.</li>
+      <li><strong>Same 55 on Xbox</strong> as achievements worth 1,000 Gamerscore; the Platinum itself is worth 0 G there.</li>
+    </ul>
+  </section>
+
+  <section class="tracker" id="tracker">
+    <h2>Trophy tracker</h2>
+    <div class="toolbar">
+      <label class="search">Search <input id="search" type="search" placeholder="Name, mission or keyword…" autocomplete="off"></label>
+      <div class="grade-pills" role="group" aria-label="Filter by grade">
+        <button type="button" data-grade="all" class="active">All 55</button>
+        <button type="button" data-grade="platinum">Platinum</button>
+        <button type="button" data-grade="gold">Gold</button>
+        <button type="button" data-grade="silver">Silver</button>
+        <button type="button" data-grade="bronze">Bronze</button>
+      </div>
+      <label>Kind
+        <select id="kind">
+          <option value="all">All kinds</option>
+          <option value="story">Story</option>
+          <option value="character">Character strands</option>
+          <option value="collectible">Collectibles</option>
+          <option value="activity">Activities</option>
+          <option value="robbery">Robberies</option>
+          <option value="combat">Combat</option>
+          <option value="exploration">Exploration</option>
+          <option value="completion">100% completion</option>
+          <option value="misc">Miscellaneous</option>
+        </select>
+      </label>
+      <label class="check"><input id="hide-spoilers" type="checkbox" checked> Hide spoilers (28 hidden)</label>
+      <label class="check"><input id="missable-only" type="checkbox"> Missable only</label>
+      <label class="check"><input id="hide-earned" type="checkbox"> Hide earned</label>
+    </div>
+    <p class="list-meta" id="list-meta"></p>
+    <div class="cards" id="cards"></div>
+    <p class="empty" id="empty" hidden>No trophies match these filters. Clear the search or widen the filters.</p>
+  </section>
+
+  <section class="data-tools">
+    <h2>Your progress</h2>
+    <p>Ticks are saved in this browser only (local storage). Nothing leaves your machine.</p>
+    <div class="tool-buttons">
+      <button id="export" type="button">Export progress (.json)</button>
+      <label class="import-btn">Import progress <input id="import" type="file" accept="application/json,.json"></label>
+      <button id="reset" type="button">Reset all ticks</button>
+    </div>
+    <p class="tool-status" id="tool-status" aria-live="polite"></p>
+  </section>
+
+  <section class="accuracy">
+    <h2>How accurate is this guide?</h2>
+    <p>The trophy names, descriptions and grades are the official list published on PlayStation Network on 2026-11-18, cross-checked by PlanetGTA6 against Exophase, PSNProfiles and TrueAchievements. Every guide below is written in this guide&rsquo;s own words and names its sources — a trophy with no source gets no credit, so none is left unsourced.</p>
+    <ul>
+      <li><strong>46 confirmed</strong> — the requirement is in the official description and corroborated by the published guides.</li>
+      <li><strong>7 partial</strong> — the requirement is clear, but the exact spot or method is still being confirmed (Fair Game; In The Beginning…; Capital Offense; Let&rsquo;s Go Bowling; Personal Best; Actions Speak Louder; Ten Pin).</li>
+      <li><strong>2 unconfirmed</strong> — no published guide has verified how to unlock them yet, and this guide says so instead of inventing a method (Bad Luck, I Guess; The Truth Is Out There).</li>
+    </ul>
+    <p>The game only just came out, so the two unconfirmed trophies are flagged honestly in their cards. Each card carries its own status badge.</p>
+  </section>
+
+  <section class="sources">
+    <h2>Sources</h2>
+    <ul>
+      <li>PlayStation Network trophy list, 2026-11-18 — via Exophase, cross-checked with PSNProfiles and TrueAchievements.</li>
+      <li>PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements (planetgta6.com).</li>
+      <li>KeenGamer — GTA 6 Trophy Guide &amp; Platinum Roadmap, All 55 Trophies, published 2026-11-19 (keengamer.com).</li>
+    </ul>
+    <p class="fineprint">Unofficial fan guide. Not affiliated with Rockstar Games or Take-Two Interactive. No Rockstar logo or official artwork is used anywhere in this guide. Trophy names and descriptions are quoted from the official PlayStation Network list for identification.</p>
+  </section>
+</main>
+
+<footer>
+  <p>Leonida Legend — a GTA 6 trophy guide and tracker. Works fully offline.</p>
+</footer>
+<noscript><p class="noscript">This tracker needs JavaScript to load the trophy list and save your ticks. The roadmap above still reads fine without it.</p></noscript>
 <script type="module" src="app.js"></script>
 </body>
 </html>

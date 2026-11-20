@@ -1,392 +1,904 @@
 {
- "game": "Grand Theft Auto VI",
- "platform": "PlayStation 5",
- "list": "the official 55 trophies, 2026-11-18",
- "trophies": [
-  {
-   "id": 1,
-   "name": "Vice Got a Price!",
-   "description": "Congratulations! You're a Leonida Legend.",
-   "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+  "game": "Grand Theft Auto VI",
+  "platform": "PlayStation 5",
+  "list": "The official 55 trophies, as published on PlayStation Network on 2026-11-18 (reported from Exophase and cross-checked against PSNProfiles and TrueAchievements by PlanetGTA6). The same 55 exist as Xbox achievements worth 1,000 Gamerscore in total.",
+  "platinum": {
+    "name": "Vice Got a Price!",
+    "time_hours": 200,
+    "difficulty": "4/10",
+    "missable_count": 1,
+    "online_count": 0,
+    "playthroughs": 1,
+    "sources": ["PlanetGTA6", "KeenGamer"]
   },
-  {
-   "id": 2,
-   "name": "Just Like Paradise",
-   "description": "Complete Gone Fishing.",
-   "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
-  },
-  {
-   "id": 3,
-   "name": "Paradise Lost",
-   "description": "Complete Chapter 1.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 1."
-  },
-  {
-   "id": 4,
-   "name": "T**s Ass Drug Money",
-   "description": "Complete Chapter 2.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 2."
-  },
-  {
-   "id": 5,
-   "name": "Vice City, Baby!",
-   "description": "Complete Chapter 3.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 3."
-  },
-  {
-   "id": 6,
-   "name": "Top Of The World, Ma",
-   "description": "Complete Chapter 4.",
-   "grade": "bronze",
-   "guide": "Finish Chapter 4."
-  },
-  {
-   "id": 7,
-   "name": "You Gotta Know When to Get Off",
-   "description": "Complete the final mission.",
-   "grade": "gold",
-   "guide": "Finish the final mission (gold)."
-  },
-  {
-   "id": 8,
-   "name": "Trust",
-   "description": "Complete Breakfast Run.",
-   "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
-  },
-  {
-   "id": 9,
-   "name": "Break the Bank",
-   "description": "Complete The Cartel Heist.",
-   "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
-  },
-  {
-   "id": 10,
-   "name": "Family Matters",
-   "description": "Complete Child's Play.",
-   "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
-  },
-  {
-   "id": 11,
-   "name": "DWNFALL",
-   "description": "Complete Headliners.",
-   "grade": "bronze",
-   "guide": "Finish the mission Headliners."
-  },
-  {
-   "id": 12,
-   "name": "Hi-Jacked",
-   "description": "Complete VCIA Takedown.",
-   "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
-  },
-  {
-   "id": 13,
-   "name": "Snow Storm",
-   "description": "Complete Operation Savage Glory.",
-   "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
-  },
-  {
-   "id": 14,
-   "name": "A Long Road",
-   "description": "Attain 100% Completion.",
-   "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
-  },
-  {
-   "id": 15,
-   "name": "Cunning Stunts",
-   "description": "Complete 250 Stunts.",
-   "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
-  },
-  {
-   "id": 16,
-   "name": "Master of None",
-   "description": "Try each type of activity once.",
-   "grade": "bronze",
-   "guide": "Try all 9 activity types once."
-  },
-  {
-   "id": 17,
-   "name": "The Shootist",
-   "description": "Earn a gold medal in all Shooting Range challenges.",
-   "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
-  },
-  {
-   "id": 18,
-   "name": "Top Fun",
-   "description": "Win a Top Fun Drone Race at every location.",
-   "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
-  },
-  {
-   "id": 19,
-   "name": "Earn Cash, Not Kudos",
-   "description": "Win 20 different races.",
-   "grade": "bronze",
-   "guide": "Win 20 different races."
-  },
-  {
-   "id": 20,
-   "name": "Baited My Tackle",
-   "description": "Beat Cal in a fishing challenge.",
-   "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
-  },
-  {
-   "id": 21,
-   "name": "Stick Fiddler",
-   "description": "Complete an arcade game.",
-   "grade": "bronze",
-   "guide": "Finish one arcade game."
-  },
-  {
-   "id": 22,
-   "name": "Road to Rehabilitation",
-   "description": "Complete the final mission for Andy.",
-   "grade": "bronze",
-   "guide": "Finish Andy's last mission."
-  },
-  {
-   "id": 23,
-   "name": "This Was No Boat Accident",
-   "description": "Complete the final mission for Kenton.",
-   "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
-  },
-  {
-   "id": 24,
-   "name": "The Lone Rider",
-   "description": "Complete the final mission for Billy.",
-   "grade": "bronze",
-   "guide": "Finish Billy's last mission."
-  },
-  {
-   "id": 25,
-   "name": "Strangers & Freaks",
-   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
-   "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
-  },
-  {
-   "id": 26,
-   "name": "Supply & Demand",
-   "description": "Complete the final mission for Randy.",
-   "grade": "bronze",
-   "guide": "Finish Randy's last mission."
-  },
-  {
-   "id": 27,
-   "name": "Spin On This!",
-   "description": "Complete the final mission for Tyrone.",
-   "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
-  },
-  {
-   "id": 28,
-   "name": "Positive Mental Attitude",
-   "description": "Meditate at every spot across Leonida.",
-   "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
-  },
-  {
-   "id": 29,
-   "name": "Fair Game",
-   "description": "Hunt a unique animal for Bret.",
-   "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
-  },
-  {
-   "id": 30,
-   "name": "Don't Touch My Deck",
-   "description": "Complete 3 Collectible Card sets.",
-   "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
-  },
-  {
-   "id": 31,
-   "name": "You WAiNKer!",
-   "description": "WAiNK It at 100 locations.",
-   "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
-  },
-  {
-   "id": 32,
-   "name": "One Last Thing",
-   "description": "Complete 50 Challenges.",
-   "grade": "bronze",
-   "guide": "Finish 50 challenges."
-  },
-  {
-   "id": 33,
-   "name": "Hot Together",
-   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
-   "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
-  },
-  {
-   "id": 34,
-   "name": "Retail Therapy",
-   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
-   "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
-  },
-  {
-   "id": 35,
-   "name": "Whip It Good",
-   "description": "Discover 100 vehicles.",
-   "grade": "bronze",
-   "guide": "Discover 100 vehicles."
-  },
-  {
-   "id": 36,
-   "name": "Gunslinger",
-   "description": "Take down 5 enemies in a single use of Combat Focus.",
-   "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
-  },
-  {
-   "id": 37,
-   "name": "Catch Me If You Can",
-   "description": "Make an unscheduled departure at VCIA.",
-   "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
-  },
-  {
-   "id": 38,
-   "name": "Challenging Tank",
-   "description": "Kinda hot in these Rhinos.",
-   "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
-  },
-  {
-   "id": 39,
-   "name": "Sneakthief",
-   "description": "Rob a jewelry store without being detected.",
-   "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
-  },
-  {
-   "id": 40,
-   "name": "Maximum Withdrawal",
-   "description": "Rob 5 Bank Vaults and escape.",
-   "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
-  },
-  {
-   "id": 41,
-   "name": "A Classic Blitz Play",
-   "description": "Rob an Armored Truck and escape.",
-   "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
-  },
-  {
-   "id": 42,
-   "name": "The Goodtime State",
-   "description": "Explore all of Leonida.",
-   "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
-  },
-  {
-   "id": 43,
-   "name": "Pest Control",
-   "description": "Rob an Illegal Operation belonging to each gang.",
-   "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
-  },
-  {
-   "id": 44,
-   "name": "In The Beginning…",
-   "description": "Enjoy a cocktail with a view on Ocean Beach.",
-   "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
-  },
-  {
-   "id": 45,
-   "name": "Capital Offense",
-   "description": "Smash your way out of a vehicle showroom in classic style.",
-   "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
-  },
-  {
-   "id": 46,
-   "name": "Let’s Go Bowling",
-   "description": "Follow-through at the Kolt & Associates' bowling alley.",
-   "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
-  },
-  {
-   "id": 47,
-   "name": "Personal Best",
-   "description": "A partnership with mass appeal.",
-   "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
-  },
-  {
-   "id": 48,
-   "name": "Actions Speak Louder",
-   "description": "Choices made (for better or worse).",
-   "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
-  },
-  {
-   "id": 49,
-   "name": "Bad Luck, I Guess",
-   "description": "Second time's the charm.",
-   "grade": "bronze",
-   "guide": "Succeed on a second try."
-  },
-  {
-   "id": 50,
-   "name": "The Truth Is Out There",
-   "description": "What the hell just happened?",
-   "grade": "bronze",
-   "guide": "Witness something strange."
-  },
-  {
-   "id": 51,
-   "name": "Ten Pin",
-   "description": "Bowl 'em over with a melee drive-by.",
-   "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
-  },
-  {
-   "id": 52,
-   "name": "Dime on the Dollar",
-   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
-   "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
-  },
-  {
-   "id": 53,
-   "name": "Treat Yo Self",
-   "description": "Spend $100,000 across all shops.",
-   "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
-  },
-  {
-   "id": 54,
-   "name": "Little Boxes",
-   "description": "Purchase all garage properties.",
-   "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
-  },
-  {
-   "id": 55,
-   "name": "On the Spot",
-   "description": "Register 10 vehicles to the Scooter Bros app.",
-   "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
-  }
- ]
+  "trophies": [
+    {
+      "id": 1,
+      "name": "Vice Got a Price!",
+      "description": "Congratulations! You're a Leonida Legend.",
+      "grade": "platinum",
+      "hidden": false,
+      "kind": "platinum",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "The Platinum. It pops the moment the other 54 trophies are all earned — there is nothing extra to do for it.",
+        "how": "Follow the roadmap in this guide: finish the story, work the 100% completion checklist for A Long Road, then clean up the stranger strands and the miscellaneous trophies. Expect around 200 hours in total; the difficulty is rated 4/10, so it is a long grind rather than a hard one.",
+        "tip": "Keep the tracker on this page ticked as you go. The progress bar at the top shows exactly how far from the Platinum you are."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 2,
+      "name": "Just Like Paradise",
+      "description": "Complete Gone Fishing.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Finish the opening mission, Gone Fishing.",
+        "how": "This is the first story mission, so it unlocks through normal play near the start of Chapter 1. Just play the story and it pops on completion.",
+        "tip": "Story trophies cannot be missed while the mission itself is completed — there is no mission replay, but finishing the mission is all it takes."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 3,
+      "name": "Paradise Lost",
+      "description": "Complete Chapter 1.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Reach the end of Chapter 1 of the story.",
+        "how": "Play through every Chapter 1 mission in order. The trophy pops when the chapter closes.",
+        "tip": "Before you leave Chapter 1, do Lucia's balcony meditation (see Positive Mental Attitude) — it is the one thing in the chapter that can pass you by."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 4,
+      "name": "T**s Ass Drug Money",
+      "description": "Complete Chapter 2.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Reach the end of Chapter 2 of the story.",
+        "how": "Complete every Chapter 2 mission. The trophy pops when the chapter closes.",
+        "tip": "Make a manual save at the start of the chapter — with no mission replay, a chapter-start save is your only way back."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 5,
+      "name": "Vice City, Baby!",
+      "description": "Complete Chapter 3.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Reach the end of Chapter 3 of the story.",
+        "how": "Complete every Chapter 3 mission. The trophy pops when the chapter closes.",
+        "tip": "Keep collecting as you go — scanning vehicles with WAiNK and studying animals with binoculars during the story saves hours of cleanup later."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 6,
+      "name": "Top Of The World, Ma",
+      "description": "Complete Chapter 4.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Reach the end of Chapter 4 of the story.",
+        "how": "Complete every Chapter 4 mission. The trophy pops when the chapter closes.",
+        "tip": "The eight big bank vaults open up during Chapter 4 through the optional mission That's Where The Money Is… — do them while you are here."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 7,
+      "name": "You Gotta Know When to Get Off",
+      "description": "Complete the final mission.",
+      "grade": "gold",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Finish the final story mission and roll the credits.",
+        "how": "Complete all five chapters. The trophy pops when the final mission ends. Free roam continues afterwards, so nothing is locked off by finishing.",
+        "tip": "Make a manual save before the final mission — it is the last natural save point before the story ends, and the one most guides recommend keeping."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 8,
+      "name": "Trust",
+      "description": "Complete Breakfast Run.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete the story mission Breakfast Run.",
+        "how": "Play the mission when it appears in the story and finish it. It unlocks automatically on completion.",
+        "tip": "Named-mission trophies like this one are story progress markers — no side work is needed."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 9,
+      "name": "Break the Bank",
+      "description": "Complete The Cartel Heist.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete the story mission The Cartel Heist.",
+        "how": "Play the mission when it appears in the story and finish it. The trophy pops on completion.",
+        "tip": "Heist missions also teach the robbery systems you will need later for the bank-vault and gang-operation trophies."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 10,
+      "name": "Family Matters",
+      "description": "Complete Child's Play.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete the story mission Child's Play.",
+        "how": "Play the mission when it appears in the story and finish it. The trophy pops on completion.",
+        "tip": "Nothing extra is needed — just the mission itself."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 11,
+      "name": "DWNFALL",
+      "description": "Complete Headliners.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete the story mission Headliners.",
+        "how": "Play the mission when it appears in the story and finish it. The trophy pops on completion.",
+        "tip": "Nothing extra is needed — just the mission itself."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 12,
+      "name": "Hi-Jacked",
+      "description": "Complete VCIA Takedown.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete the story mission VCIA Takedown.",
+        "how": "Play the mission when it appears in the story and finish it. The trophy pops on completion.",
+        "tip": "VCIA is the airport — remember the layout, because the Catch Me If You Can trophy sends you back here later."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 13,
+      "name": "Snow Storm",
+      "description": "Complete Operation Savage Glory.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "story",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete the story mission Operation Savage Glory.",
+        "how": "Play the mission when it appears in the story and finish it. The trophy pops on completion.",
+        "tip": "Nothing extra is needed — just the mission itself."
+      },
+      "sources": ["PSN", "PlanetGTA6"]
+    },
+    {
+      "id": 14,
+      "name": "A Long Road",
+      "description": "Attain 100% Completion.",
+      "grade": "gold",
+      "hidden": false,
+      "kind": "completion",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Reach 100% completion on the in-game checklist (Progress > Stats > 100% Completion). This is the hardest trophy and the bulk of the Platinum.",
+        "how": "You do not need everything in the game — only the checklist numbers. The big blocks are: all story chapters; 100 optional tasks; 39 gang operations, 22 bank jobs, 7 payday loan jobs, 34 of 35 smash 'n' grabs, 50 of 91 stick-ups, all 8 bank vaults; $100k narcotics and $100k jewelry fenced, $250k marked bills and $200k vehicles fenced; 5 of 7 Kenton treasure sets, 15 of 18 card sets, 100 WAiNK scans, 33 underwater discoveries, 30 of 34 magazines/books/comics, 15 of 18 meditations, 100 of 125 cocaine flamingos, 2 playlists, 70 of 79 styles, 200 of 277 base-model vehicles, 50 of 66 standard weapons, 100 of 255 animals studied; 30 of 40 races won, 10 of 13 race golds, all 42 shooting-range golds, all 4 video games played, 5 of 7 pool opponents beaten, mini golf at 2 of 3 spots, 90 of 100 basketball hoops, all 42 drone time trials, 300 of 397 stunts, 70 of 80 challenges, and all 15 of Bret's target decks.",
+        "tip": "Check the in-game checklist after the story instead of guessing — it shows exactly what is left. Do not chase 100% of every category; stop each one at its checklist number."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    }
+,
+    {
+      "id": 15,
+      "name": "Cunning Stunts",
+      "description": "Complete 250 Stunts.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete 250 unique stunts across Leonida — jumps, drifts, near-misses and the rest of the stunt categories.",
+        "how": "Stunts trigger naturally while driving hard, but 250 unique ones takes deliberate work. Vary what you do: different jump spots, drift zones and stunt types all count separately, and the game tracks which ones you have done. Note the 100% checklist wants 300 stunts, so keep going past this trophy — the extra 50 count toward A Long Road.",
+        "tip": "Do not grind all 250 in one place. Spread stunt attempts across the map as you travel for other trophies and the count climbs on its own."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 16,
+      "name": "Master of None",
+      "description": "Try each type of activity once.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Try each of the nine activity types at least once.",
+        "how": "Sample everything the open world offers: a race, a shooting-range challenge, a drone race, fishing, an arcade game, pool, mini golf, basketball and a stunt event will cover the set. You do not need to win or finish any of them — one attempt at each type is enough.",
+        "tip": "Do this early. It doubles as a tour of the activities that the bigger trophies (races, shooting range, stunts) will ask much more of later."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 17,
+      "name": "The Shootist",
+      "description": "Earn a gold medal in all Shooting Range challenges.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Earn a gold medal in every shooting-range challenge — all 42 of them.",
+        "how": "Visit the shooting ranges around Leonida and work through each challenge until you hit its gold-medal score. Accuracy and speed both matter, so learn each challenge's target pattern first with a slow run, then go for the gold time. The 100% checklist also needs all 42 golds, so this trophy is on the critical path to A Long Road.",
+        "tip": "Use the weapon the challenge is built around rather than your favourite — the ranges are tuned for specific guns."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 18,
+      "name": "Top Fun",
+      "description": "Win a Top Fun Drone Race at every location.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Win a Top Fun drone race at all 14 drone-race locations.",
+        "how": "Find the Top Fun drone events at each of their 14 spots and win at least one race at each. Learn the course on a first attempt, then race the racing line — cutting corners through gates cleanly beats raw speed. The 100% checklist also wants all 42 drone time trials done, so keep racing after the wins.",
+        "tip": "A win at a location is what counts, not a perfect run — bank the win first, then chase time trials."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 19,
+      "name": "Earn Cash, Not Kudos",
+      "description": "Win 20 different races.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Win 20 different races — 20 distinct race events, not the same one 20 times.",
+        "how": "Race across Leonida: street, off-road and water events all count as long as each is a different race. The 100% checklist wants 30 of the 40 races won, so keep going past 20 — every extra win is progress toward A Long Road.",
+        "tip": "Pick a fast, stable car for road races and learn the braking points; most losses come from one missed corner, not from top speed."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 20,
+      "name": "Baited My Tackle",
+      "description": "Beat Cal in a fishing challenge.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Beat Cal in a fishing challenge.",
+        "how": "Take on Cal's fishing challenge when it appears and out-fish him — land the better catch under the challenge's rules. Fishing is introduced in the opening mission, so the mechanics are the same ones you learned at the start of the game.",
+        "tip": "Watch the line tension: steady reeling with pauses beats mashing, and a snapped line costs you the challenge."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 21,
+      "name": "Stick Fiddler",
+      "description": "Complete an arcade game.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete any one arcade game.",
+        "how": "Find an arcade machine in the world, start a game and play it through to the end. Any arcade game counts, so pick the shortest or easiest one you find. The 100% checklist wants all 4 video games played, so try the others too while you are here.",
+        "tip": "This is one of the quickest trophies in the list — a good first tick on the tracker."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 22,
+      "name": "Road to Rehabilitation",
+      "description": "Complete the final mission for Andy.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "character",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Finish Andy's mission strand by completing his final mission.",
+        "how": "Meet Andy in the world and work through his missions in order until the strand ends with its final mission. Stranger-style strands unlock as you explore, so check the map for his marker if he has not appeared yet.",
+        "tip": "Character strands are separate from the story — do them as they appear rather than leaving all five for the end."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 23,
+      "name": "This Was No Boat Accident",
+      "description": "Complete the final mission for Kenton.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "character",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Finish Kenton's mission strand by completing his final mission.",
+        "how": "Meet Kenton in the world and work through his missions in order until the strand ends. Kenton is also tied to the treasure sets on the 100% checklist (5 of 7 needed), so his strand pays off twice.",
+        "tip": "Collect treasure sets as you travel for his missions — the two goals overlap on the same routes."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 24,
+      "name": "The Lone Rider",
+      "description": "Complete the final mission for Billy.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "character",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Finish Billy's mission strand by completing his final mission.",
+        "how": "Meet Billy in the world and work through his missions in order until the strand ends with its final mission.",
+        "tip": "If a character's marker is not showing, keep playing the story — strands open up as chapters progress."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 25,
+      "name": "Strangers & Freaks",
+      "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "character",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete 8 full mission strands for strangers across Leonida.",
+        "how": "There are more stranger strands in the world than the 8 this trophy needs, so you can skip the ones you dislike. Andy, Kenton, Billy, Randy and Tyrone each have their own strand (and their own trophy), and the remaining strands come from other strangers marked on the map. Finish any 8 strands end to end.",
+        "tip": "Count strands, not missions: a strand only counts when its final mission is done."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 26,
+      "name": "Supply & Demand",
+      "description": "Complete the final mission for Randy.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "character",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Finish Randy's mission strand by completing his final mission.",
+        "how": "Meet Randy in the world and work through his missions in order until the strand ends with its final mission.",
+        "tip": "Randy's strand counts toward the 8 strands for Strangers & Freaks as well — every character strand pulls double duty."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 27,
+      "name": "Spin On This!",
+      "description": "Complete the final mission for Tyrone.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "character",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Finish Tyrone's mission strand by completing his final mission.",
+        "how": "Meet Tyrone in the world and work through his missions in order until the strand ends with its final mission.",
+        "tip": "Do the five named character strands (Andy, Kenton, Billy, Randy, Tyrone) and you are already five of the eight strands toward Strangers & Freaks."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 28,
+      "name": "Positive Mental Attitude",
+      "description": "Meditate at every spot across Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": true,
+      "status": "confirmed",
+      "guide": {
+        "what": "Meditate at all 18 meditation spots across Leonida. This is the only potentially missable trophy in the game — handle it first, not last.",
+        "how": "There are 18 spots in total. One of them is Lucia's balcony meditation at Jason's house in Chapter 1: after the mission Down to Earth, find Lucia at the house in the morning, talk to her in the kitchen when she mentions meditating, follow her to the balcony, accept, and finish the meditation. That moment passes once Chapter 1 ends. For the other spots, travel to each marked meditation location with Jason and Lucia — both characters can meditate at the same spot, and each one counts toward the 18. The 100% checklist only needs 15 of 18, but the trophy needs all 18.",
+        "tip": "Whether the Chapter 1 balcony meditation is strictly required for the trophy is still unconfirmed — do it anyway, and make a manual save right after. There are 15 manual save slots and no mission replay, so a chapter-start save is your safety net."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 29,
+      "name": "Fair Game",
+      "description": "Hunt a unique animal for Bret.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "character",
+      "missable": false,
+      "status": "partial",
+      "guide": {
+        "what": "Hunt a unique animal for Bret, the hunting contact.",
+        "how": "Work through Bret's hunting objectives — his Target Deck lists the animals to hunt, and the 100% checklist needs all 15 of his target decks finished. The trophy itself is tied to hunting a unique animal for him, so follow his strand and take the hunts he marks. Which specific animal or target triggers this trophy is not yet pinned down in the published guides, so treat Bret's deck as the route and check the in-game prompt when a hunt is offered.",
+        "tip": "Study animals with binoculars whenever you travel — 100 species studied is also on the 100% checklist, and it teaches you where the wildlife is."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 30,
+      "name": "Don't Touch My Deck",
+      "description": "Complete 3 Collectible Card sets.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete 3 full collectible card sets.",
+        "how": "Find collectible cards scattered across Leonida and assemble complete sets — three finished sets earns the trophy. The 100% checklist needs 15 of the 18 card sets, so keep collecting well past this trophy.",
+        "tip": "Cards are a pure exploration collectible: pick them up whenever you pass one instead of hunting all of them in one sweep at the end."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 31,
+      "name": "You WAiNKer!",
+      "description": "WAiNK It at 100 locations.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Use the WAiNK app at 100 different locations.",
+        "how": "Open the WAiNK app on the in-game phone and scan at landmarks, vehicles and points of interest — each new location counts once. The 100% checklist also needs 100 WAiNK scans, so this trophy and the checklist finish together.",
+        "tip": "Scan early and often: point WAiNK at every unfamiliar vehicle and landmark during the story and you will be most of the way there by the finale."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 32,
+      "name": "One Last Thing",
+      "description": "Complete 50 Challenges.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "activity",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Complete 50 of the game's Challenges.",
+        "how": "Challenges are small feats scattered across driving, combat, exploration and side activities — many complete themselves while you chase other trophies. The 100% checklist needs 70 of the 80 challenges, and you may skip the 10 hardest, so keep the easy and natural ones coming and leave the brutal ones for last.",
+        "tip": "Do not grind challenges in isolation early on. Check the challenge list after the story and mop up the ones closest to done."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 33,
+      "name": "Hot Together",
+      "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "misc",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "With your partner beside you, build a 4-star wanted level, then lose the cops and escape.",
+        "how": "Bring your partner along, cause enough trouble to reach 4 stars, then break line of sight and stay out of the search area until the wanted level clears. Fast cars, alleyways and the map's edge all help — the key is distance plus staying hidden until the stars drop, not outrunning every cop car.",
+        "tip": "Do this away from story missions so a failed escape does not cost you mission progress. A manual save beforehand is cheap insurance."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 34,
+      "name": "Retail Therapy",
+      "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "robbery",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "With your partner, rob 3 shops in a row without ever losing your wanted level between them.",
+        "how": "Pick three shops close together, rob the first, move straight to the next while the wanted level is still active, and repeat for the third. Do not let the stars clear in between — the chain breaks if you lose the heat. Plan the route first and keep a fast getaway car parked nearby.",
+        "tip": "Scout the three shops on foot before you start. A tight triangle of shops makes the chain easy; a spread-out route makes it fail."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    }
+,
+    {
+      "id": 35,
+      "name": "Whip It Good",
+      "description": "Discover 100 vehicles.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Discover 100 different vehicles.",
+        "how": "Drive, scan and sit in new vehicles as you find them — each new model counts once. The 100% checklist needs 200 of the 277 base-model vehicles scanned with WAiNK, so use the app on every unfamiliar vehicle and this trophy arrives on the way to that bigger number.",
+        "tip": "Variety beats repetition: a new model in traffic is worth more than your tenth ride in the same car."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 36,
+      "name": "Gunslinger",
+      "description": "Take down 5 enemies in a single use of Combat Focus.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "combat",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Take down 5 enemies during one single activation of Combat Focus.",
+        "how": "Trigger Combat Focus in a fight with at least 5 enemies close together and drop all five before it ends. Pick a busy firefight — story shootouts and gang operations both give you the crowd — and prioritise weak, grouped targets over distant ones.",
+        "tip": "Do not waste the activation on one or two stragglers. Wait until five enemies are in range, then commit."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 37,
+      "name": "Catch Me If You Can",
+      "description": "Make an unscheduled departure at VCIA.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "combat",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Steal a departing passenger aircraft from Vice City International Airport and take off in it.",
+        "how": "Get onto the VCIA tarmac, reach a passenger plane as it prepares to leave, get aboard and take off. Expect heavy police attention — a fast approach, a runway that is clear, and getting airborne quickly matter more than fighting on the ground.",
+        "tip": "Scout the airport on foot first so you know where the planes park and which runway to use."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 38,
+      "name": "Challenging Tank",
+      "description": "Kinda hot in these Rhinos.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "combat",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Steal a Rhino military tank and use it in combat.",
+        "how": "Find a Rhino — military areas are the reliable source — steal it, then fight with it: fire the cannon at enemies or vehicles until the trophy registers. A stolen tank draws a heavy response, so use its armour and keep moving rather than parking in the open.",
+        "tip": "Plan your escape route before you grab it. The hard part is reaching the tank, not using it."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 39,
+      "name": "Sneakthief",
+      "description": "Rob a jewelry store without being detected.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "robbery",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Rob a jewelry store without triggering detection.",
+        "how": "Case the store first: learn the guard patrols and camera angles, move quietly, take the goods and leave before anyone raises the alarm. Detection is the fail condition, so patience beats speed — wait for the clean window rather than rushing the counter.",
+        "tip": "Go in light and quiet. A loud approach turns this into a different, much harder robbery."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 40,
+      "name": "Maximum Withdrawal",
+      "description": "Rob 5 Bank Vaults and escape.",
+      "grade": "silver",
+      "hidden": false,
+      "kind": "robbery",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Rob 5 bank vaults and escape cleanly after each one.",
+        "how": "Bank vaults are the big jobs: plan the entry, crack the vault, grab the take and escape before the response closes in. The 100% checklist needs all 8 vaults, and they open up during Chapter 4 through the optional mission That's Where The Money Is… — so five for this trophy is a milestone on the way to eight.",
+        "tip": "Escape planning is half the job. Know your getaway route before you touch the vault door."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 41,
+      "name": "A Classic Blitz Play",
+      "description": "Rob an Armored Truck and escape.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "robbery",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Rob an armored truck and escape with the take.",
+        "how": "Find an armored truck on its route, stop it, break it open and get away before the police box you in. Blocking the road ahead of the truck and hitting it fast works better than chasing it through traffic.",
+        "tip": "Have the getaway car already facing the escape direction before you start the robbery."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 42,
+      "name": "The Goodtime State",
+      "description": "Explore all of Leonida.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "exploration",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Explore all of Leonida and uncover the complete map.",
+        "how": "Drive, fly and sail through every region until the map is fully revealed. It happens naturally across a full playthrough if you travel for other trophies instead of fast-travelling everywhere — the last blank patches are usually the far corners and the islands.",
+        "tip": "Check the map for fog after the story and sweep the remaining blank areas in one road trip."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 43,
+      "name": "Pest Control",
+      "description": "Rob an Illegal Operation belonging to each gang.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "robbery",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Rob at least one illegal operation belonging to each of the nine gangs.",
+        "how": "Find the gangs' illegal operations across Leonida — one per gang, nine in total — and rob each one. The 100% checklist needs all 39 gang operations done, so this trophy is the first pass over a much longer list: hit one operation per gang first to bank the trophy, then work the rest.",
+        "tip": "Keep a note of which gangs you have hit. It is easy to rob the same gang twice and leave one untouched."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 44,
+      "name": "In The Beginning…",
+      "description": "Enjoy a cocktail with a view on Ocean Beach.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "misc",
+      "missable": false,
+      "status": "partial",
+      "guide": {
+        "what": "Enjoy a cocktail with a view on Ocean Beach.",
+        "how": "Go to a bar or cocktail spot overlooking Ocean Beach and order a cocktail there. The exact spot and trigger that make the trophy pop are still being confirmed in the published guides — the description points at Ocean Beach itself, so work the beachfront bars and watch for the prompt. Do not rely on a single named venue until the guides confirm one.",
+        "tip": "Honest status: the requirement is the cocktail with the view; the precise trigger is unconfirmed. Try the beachfront spots and check this guide again as the community pins it down."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 45,
+      "name": "Capital Offense",
+      "description": "Smash your way out of a vehicle showroom in classic style.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "misc",
+      "missable": false,
+      "status": "partial",
+      "guide": {
+        "what": "Smash your way out of a vehicle showroom in classic style — drive a car straight through the showroom glass.",
+        "how": "Take a car into a vehicle showroom and drive it out through the front glass. The exact showroom and method are still unconfirmed in the published guides, so expect this to need the right showroom and a clean, fast exit through the glass rather than any showroom door. Try the main showrooms and watch for the trophy to pop on the smash-out.",
+        "tip": "Honest status: the stunt is clear from the description, the precise showroom is not yet confirmed. Do not trust a specific venue name until a guide verifies it."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 46,
+      "name": "Let’s Go Bowling",
+      "description": "Follow-through at the Kolt & Associates' bowling alley.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "status": "partial",
+      "guide": {
+        "what": "Follow through at the Kolt & Associates bowling alley.",
+        "how": "Go to the Kolt & Associates bowling alley and complete what it asks of you there — the published guide reports this as stealing the three key valuables at the alley and escaping. Treat that as reported rather than verified: visit the alley, look for the valuables and the escape route, and confirm the objective in game before committing to a loud approach.",
+        "tip": "Honest status: the venue is named in the description; the three-valuables method is reported by KeenGamer and not yet independently verified."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 47,
+      "name": "Personal Best",
+      "description": "A partnership with mass appeal.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "misc",
+      "missable": false,
+      "status": "partial",
+      "guide": {
+        "what": "Build the partnership up — reported as maximising the Strength stat for both Jason and Lucia.",
+        "how": "Train Strength for both characters until it is maxed: gym work, melee and heavy activity all feed the stat. The published guide reports Strength for both partners as the trigger; the cryptic description does not spell it out, so treat the stat-max route as reported rather than verified and watch the trophy after each character hits the cap.",
+        "tip": "Honest status: reported by KeenGamer as max Strength for both Jason and Lucia. Train both characters evenly instead of focusing on one."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 48,
+      "name": "Actions Speak Louder",
+      "description": "Choices made (for better or worse).",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "misc",
+      "missable": false,
+      "status": "partial",
+      "guide": {
+        "what": "Make choices that move your Criminal Profile — reported as performing 500 actions that affect it.",
+        "how": "Play the game making criminal choices: robberies, crimes and other profile-affecting actions all feed the counter. The published guide reports 500 such actions as the trigger, so this is a volume trophy that fills up across a normal criminal playthrough rather than a single event.",
+        "tip": "Honest status: the 500-action figure is reported by KeenGamer. You do not need to chase it deliberately — check the Criminal Profile as you play and it should be close by the end of the grind."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 49,
+      "name": "Bad Luck, I Guess",
+      "description": "Second time's the charm.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "misc",
+      "missable": false,
+      "status": "unconfirmed",
+      "guide": {
+        "what": "Unknown — the description hints that something works on the second try, but no published guide has confirmed what.",
+        "how": "No verified method exists yet. The honest advice is to play normally and watch for it: second attempts at things are a natural part of the game, and the community is still pinning this one down. Do not follow any specific method you see online unless a reputable guide verifies it.",
+        "tip": "Honest status: unconfirmed. This guide will not invent a method — check back once the trophy hunting community confirms the trigger."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 50,
+      "name": "The Truth Is Out There",
+      "description": "What the hell just happened?",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "misc",
+      "missable": false,
+      "status": "unconfirmed",
+      "guide": {
+        "what": "Unknown — the description reads like a reaction to something strange, but no published guide has confirmed what triggers it.",
+        "how": "No verified method exists yet. The name and description suggest an unusual or secret encounter somewhere in Leonida. Play through the world, poke at the odd corners, and watch for it — and do not trust a specific location until a reputable guide verifies it.",
+        "tip": "Honest status: unconfirmed. This guide will not invent a location or a step — check back once the trophy hunting community confirms the trigger."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 51,
+      "name": "Ten Pin",
+      "description": "Bowl 'em over with a melee drive-by.",
+      "grade": "bronze",
+      "hidden": true,
+      "kind": "activity",
+      "missable": false,
+      "status": "partial",
+      "guide": {
+        "what": "Bowl enemies over with a melee drive-by — hit them with a melee attack from a moving vehicle.",
+        "how": "Drive past enemies at speed and strike them with a melee weapon from the vehicle so they are bowled over. The precise method — which vehicle speed, which weapon, how many targets — is still being confirmed in the published guides, so experiment with a fast car, a clear road and a group of enemies on foot, and watch for the pop.",
+        "tip": "Honest status: the melee drive-by is clear from the description; the exact conditions are still being confirmed. A quiet road with pedestrians grouped together is the safest place to test it."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 52,
+      "name": "Dime on the Dollar",
+      "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Launder a total of $250,000 in Marked Bills through your contacts.",
+        "how": "Marked Bills come from robberies — bank vaults, gang operations and similar jobs pay in them. Take the bills to your contacts and launder them; the total is cumulative across the whole playthrough. The 100% checklist needs the same $250,000 fenced, so this trophy and that checklist line finish together.",
+        "tip": "Do not sit on marked bills. Launder them as you earn them so the total keeps climbing while you do other trophies."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 53,
+      "name": "Treat Yo Self",
+      "description": "Spend $100,000 across all shops.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "misc",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Spend a total of $100,000 across all shops.",
+        "how": "Buy weapons, clothes, car upgrades and anything else the shops sell — the total is cumulative across every shop. You will spend a large part of this naturally on gear for the other trophies; if you are short at the end, buy the most expensive items you still want rather than junk.",
+        "tip": "Spend on things that help other trophies — better weapons for the shooting range, faster cars for races — and the $100,000 takes care of itself."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 54,
+      "name": "Little Boxes",
+      "description": "Purchase all garage properties.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Purchase all eight purchasable garage properties.",
+        "how": "Buy every garage property on the market — eight in total, according to the published guide. Garages also store the vehicles you collect, so buy them as you can afford them rather than leaving all eight for the end.",
+        "tip": "Money for garages comes from the robbery grind — the $250,000 of laundered bills and the fencing totals feed the same wallet."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    },
+    {
+      "id": 55,
+      "name": "On the Spot",
+      "description": "Register 10 vehicles to the Scooter Bros app.",
+      "grade": "bronze",
+      "hidden": false,
+      "kind": "collectible",
+      "missable": false,
+      "status": "confirmed",
+      "guide": {
+        "what": "Register 10 vehicles to the Scooter Bros app.",
+        "how": "Open the Scooter Bros app on the in-game phone and register vehicles you own or find — ten registrations earns the trophy. It is a quick, cheap trophy once the app is available: register any ten vehicles and you are done.",
+        "tip": "Do this early. It is one of the fastest ticks on the tracker and it teaches you the phone-app systems other trophies use."
+      },
+      "sources": ["PSN", "PlanetGTA6", "KeenGamer"]
+    }
+  ],
+  "sources": [
+    "PlayStation Network trophy list, 2026-11-18 (via Exophase, cross-checked with PSNProfiles and TrueAchievements) — reported by PlanetGTA6",
+    "PlanetGTA6 — GTA 6 Trophies: All 55 trophies and Xbox achievements",
+    "KeenGamer — GTA 6 Trophy Guide and Platinum Roadmap, All 55 Trophies (published 2026-11-19)"
+  ],
+  "notes": "Two trophies (Bad Luck, I Guess and The Truth Is Out There) have no verified unlock method in any published guide as of 2026-11-20; this guide says so instead of inventing one. Seven more are partial: the requirement is clear from the official description but the exact spot or method is still being confirmed. The Chapter 1 balcony meditation for Positive Mental Attitude is reported as the one potentially missable interaction, though whether it is strictly required is unconfirmed."
 }
